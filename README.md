@@ -1,7 +1,7 @@
 # TokenViz
 
 ## Contents of this repository
-The repository includes the code used for our experiments, including implementations of the three tasks described in the text.
+The repository includes the code used for our experiments, including implementations of the three tasks described in the paper.
 
 .license.txt: The license of our code
 ├── clone_detection/code_classification/defect_detection: Implementation of this task
@@ -32,6 +32,7 @@ For Defect Detection:
 
 ### Running the experiment
 Run the experiment.py file in the corresponding task folder
+
 Note: The corresponding parameters can be adjusted by modifying experiment.py.
 
 
