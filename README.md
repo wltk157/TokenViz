@@ -27,8 +27,8 @@ For Clone Detection/Code Classification:
 
 For Defect Detection:
 1. Download the "dataset.zip" file from Google Drive in the defect_detection folder.
-2. Run the xxx.py file in the xxx/xxx folder to generate the dataset for WPDP/CPDP.
-
+2. Run the "mkcsvdataset.py" file in the "txt" folder to generate the dataset for WPDP/CPDP.
+3. Place the generated dataset in the "dataset" folder.
 
 ### Running the experiment
 Run the experiment.py file in the corresponding task folder
